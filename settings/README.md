@@ -1,3 +1,9 @@
+# Creation
+Characterhub is created as **Jumpgate** game (ie the new version of the game engine).
+
+# Mods
+API Sandbox version = Experimental (ie the new version of the sandbox)
+
 # Compendium Selection
 Set to "Available and you own. Will be shared with other players":
 - Free Basic Rules (2024)
