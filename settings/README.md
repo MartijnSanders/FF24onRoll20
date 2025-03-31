@@ -11,7 +11,7 @@ Characterhub is created as **Jumpgate** game (ie the new version of the game eng
 
 Allow public access to this game? **No**
 
-Allow players to create their own Characters? **No** *use the button to create characters as the standard create character functionlaity creates characters in the players 'chararacters' section, which leads to characters disappearing from the hub and characters that cannot be deleted. *
+Allow players to create their own Characters? **No** *use the button to create characters as the standard create character functionlaity creates characters in the players 'chararacters' section, which leads to characters disappearing from the hub and characters that cannot be deleted.*
 
 Allow players to transfer Characters? **No** *same reason as previous*
 
